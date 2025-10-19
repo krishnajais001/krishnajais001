@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java with Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML , CSS , C**
+- 💬 Ask me about **HTML , CSS ,JavaScript,Java, C++**
 
 - 📫 How to reach me **jais62481@gmail.com**
 
