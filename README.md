@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Krishna Jai's</h1>
-<h3 align="center">A innovative frontend Developer with a Diploma degree in Computer Science Engineering . </h3>
+<h3 align="center">A passionate full-stack with a Diploma in Computer Science Engineering. I love solving real-world problems and building cool web projects.. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnajais001&label=Profile%20views&color=0e75b6&style=flat" alt="krishnajais001" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java with Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML , CSS ,JavaScript,Java, C++**
+- 💬 Ask me about **HTML , CSS ,JavaScript,Java, C++, DSA**
 
-- 📫 How to reach me **jais62481@gmail.com**
+- 📫 How to reach me **jaiskrishna06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
