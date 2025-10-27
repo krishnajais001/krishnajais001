@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishnajais1432" target="blank"><img src="https://img.shields.io/twitter/follow/krishnajais1432?logo=twitter&style=for-the-badge" alt="krishnajais1432" /></a> </p>
 
-- 🌱 I’m currently learning **Java with Data Structures and Algorithms**
+- 🌱 I’m currently learning **C++ with Data Structures and Algorithms**
 
 - 💬 Ask me about **HTML , CSS ,JavaScript,Java, C++, DSA**
 
