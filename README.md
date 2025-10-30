@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Jaiswal</h1>
-<h3 align="center">A Passionate Full Stack Web Developer with a Diploma in Computer Science Engineering & Currently I'm pursuing Bachelor's in Computer Science Engineering. I love solving real-world problems and building cool web projects.</h3>
+<h3 align="center">A Passionate Full Stack Web Developer with a Diploma in Computer Science Engineering & Currently I'm Pursuing Bachelor's in Computer Science Engineering. I love solving real-world problems and building cool web projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnajais001&label=Profile%20views&color=0e75b6&style=flat" alt="krishnajais001" /> </p>
 
