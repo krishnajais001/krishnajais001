@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krishna Jaiswal</h1>
-<h3 align="center">A Passionate Full Stack Web Developer with a Diploma in Computer Science Engineering & Currently I'm Pursuing Bachelor's in Computer Science Engineering. I love solving real-world problems and building cool web projects.</h3>
+<h3 align="center">A Passionate Full Stack Web Developer with a Diploma in Computer Science Engineering & Currently I'm Pursuing Bachelor's in Computer Science Engineering. I love solving real-world problems and building web projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnajais001&label=Profile%20views&color=0e75b6&style=flat" alt="krishnajais001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnajais001" alt="krishnajais001" /></a> </p>
 
-- 🔭 I’m currently working on **Intelligent Chatbot Portal**
+- 🔭 I’m currently working on **College Event Management System**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
