@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krishna Jaiswal</h1>
-<h3 align="center">Hey, I'm Krishna, an innovative Software Developer with a Diploma degree in Computer Science Engineering & Currently I am Pursuing Bachelor of Technology in Computer Science & Engineering From Guru Gobind Singh Indraprastha University, New Delhi. Passionate about building scalable, user-centric web applications and solving real-world problems through technology. </h3>
+<h1 align="center">Hey 👋, I'm Krishna Jaiswal</h1>
+<h3 align="center">An innovative Software Developer with a Diploma degree in Computer Science Engineering & Currently I am Pursuing Bachelor of Technology in Computer Science & Engineering From Guru Gobind Singh Indraprastha University, New Delhi. Passionate about building scalable, user-centric web applications and solving real-world problems through technology. </h3>
 
 
 
