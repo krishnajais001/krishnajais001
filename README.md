@@ -1,22 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Jaiswal</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-## Education
-<p align="center">
-Diploma in Computer Science Engineering | Pursuing Bachelor's in Computer Science Engineering
-<br/>
-Passionate about building scalable, user-centric web applications and solving real-world problems through technology.
-</p>
-- **Aditya Institute of Technology**  
-  Bachelor's Degree in Engineering  
-  Year of Graduation: 2020
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=krishnajais001&label=Profile%20views&color=0e75b6&style=flat" alt="krishnajais001" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnajais001" alt="krishnajais001" /></a>
-</p>
-
----
 
 ## 📋 Table of Contents
 - [About Me](#-about-me)
