@@ -16,6 +16,7 @@ Passionate about building scalable, user-centric web applications and solving re
 
 ## 📋 Table of Contents
 - [About Me](#-about-me)
+- [Work Experience](#-work-experience)
 - [Projects](#-projects)
 - [Technical Skills](#-technical-skills)
 - [Achievements](#-achievements)
@@ -31,6 +32,25 @@ Passionate about building scalable, user-centric web applications and solving re
 - 💡 Interested in **Web Application Architecture** and **Real-time Systems**
 - 📫 How to reach me: **jaiskrishna06@gmail.com**
 - 📄 View my resume: [Google Drive Link](https://drive.google.com/file/d/1VjDkTAx6UWxQnYsgsyTsP3gCa0ANKHsV/view)
+
+---
+
+## 💼 Work Experience
+
+### SolveLancer (Freelancer)
+**Quality Assurance Specialist**  
+*January 2021 – December 2021*
+
+- Utilized problem-solving skills to resolve complex issues as a Math problem solver
+- Ensured accuracy and quality of answers as a quality checker
+
+### MentorAide
+**Front End Internship**  
+*January 2024 – March 2024*
+
+- Designed and developed a responsive landing page for a mountain travel website using HTML, CSS, and JavaScript
+- Applied core web development concepts in an industry-relevant environment through hands-on training
+- Collaborated with team members to analyze problems and implement effective solutions
 
 ---
 
@@ -52,6 +72,18 @@ Passionate about building scalable, user-centric web applications and solving re
 - Built **Admin Dashboard** for creating, updating, and managing events with attendee management
 - Integrated **email notifications** to automatically alert students upon successful event registration
 - Features: User authentication, Event filtering, Attendance tracking
+
+### Intelligent Multi-Agent Email Automation System
+**Tech Stack:** n8n, LLM APIs, Gmail Integration
+
+- Built an **AI-powered Gmail agent** using n8n that monitors incoming emails, classifies intent, and automatically drafts or sends replies using LLM processing
+- Architected a **multi-agent system** where specialized agents collaborate to route and resolve complex tasks across parallel workflows
+
+### AI-Powered Telegram Assistant & Doctor-Patient Management System
+**Tech Stack:** n8n, Telegram API, React.js, Supabase, Bolt/Cursor, Replit
+
+- Developed a **conversational Telegram bot** using n8n acting as a personal assistant with natural language handling and Google Calendar integration for task and schedule management
+- Built a **doctor-patient management web app** using Bolt/Cursor and Replit, integrated with n8n backend for form submissions, patient records, and automated email confirmations
 
 ---
 
