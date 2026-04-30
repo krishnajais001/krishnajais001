@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Jaiswal</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-## Education
 
+## Education
 <p align="center">
 Diploma in Computer Science Engineering | Pursuing Bachelor's in Computer Science Engineering
 <br/>
