@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Krishna+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+AI+Agents+%26+RAG+Systems;Open+to+SDE+%2F+AI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Krishna Jaiswal +%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+AI+Agents+%26+RAG+Systems;Open+to+SDE+%2F+AI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Engineer%20Intern-Quild-70A5FD?style=for-the-badge" alt="Current role"/>
